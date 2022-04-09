@@ -26,7 +26,7 @@ function generatePassword(){
     //Uppercase Object
     {
       "name": "Uppercase",
-      "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+      "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
       "status": false
     },
     //Numbers Object
