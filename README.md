@@ -13,6 +13,6 @@ Generated an unique password with the following criteria:
 Once the character types are selected and the length is defined, then it displays the password generated on the page.
 Below is a screenshot of the final product.
 
-![PasswordMe](assets/img/password-generated.JPG)
+![PasswordMe](./Assets/img/password-generated.JPG)
 
 Visit the live page: [Generate me a password!](https://ticonetster.github.io/passwordMe/)
